@@ -1,0 +1,20 @@
+body {
+
+text-align:center;
+
+background-color: aquamarine;
+
+}
+#color{
+
+background-color: cornflowerblue;
+
+}
+.imageContainer{
+
+    background-color: coral; 
+  width: 382px !important;
+     height: 282px !important; 
+    text-align: center;
+    vertical-align:bottom;
+}
